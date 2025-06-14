@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Godspeed by osm0sis @ xda-developers
+kernel.string=Godspeed @ bara
 do.devicecheck=1
 do.modules=0
 do.systemless=1
