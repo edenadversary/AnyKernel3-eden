@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Godspeed @ bara
+kernel.string=The Last Will and Testament
 do.devicecheck=1
 do.modules=0
 do.systemless=1
